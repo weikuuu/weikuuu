@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="./elysia-banner.jpg" width="100%" alt="Elysia banner">
+
+<img src="./elysia-banner.jpg" width="100%" alt="Elysia banner">
+
+# 🌸 Hii, I'm Ellie!
+
+I love cute girls and sometimes I code ♡
+
+🌸 [Telegram](https://t.me/weikuu) · Discord: `weikuu`
+
 </div>
-
-<h1 align="center">🌸 Hii, I'm Ellie!</h1>
-
-<p align="center">
-  I love cute girls and sometimes I code ♡
-</p>
