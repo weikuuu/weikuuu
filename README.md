@@ -2,7 +2,7 @@
   <img src="./elysia-banner.jpg" width="100%" alt="Elysia banner">
 </div>
 
-<h1 align="center">🌸 Hi, I'm Ellie!</h1>
+<h1 align="center">🌸 Hii, I'm Ellie!</h1>
 
 <p align="center">
   I love cute girls and sometimes I code ♡
