@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./elysia-banner.jpg" width="100%" alt="Cyrene banner">
+  <img src="./elysia-banner.jpg" width="100%" alt="Elysia banner">
 </div>
 
 <h1 align="center">🌸 Hi, I'm Ellie!</h1>
