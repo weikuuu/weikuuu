@@ -5,5 +5,5 @@
 <h1 align="center">🌸 Hi, I'm Ellie!</h1>
 
 <p align="center">
-  Learning Python ♡
+  I love cute girls and sometimes I code ♡
 </p>
