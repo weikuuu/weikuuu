@@ -4,7 +4,8 @@
 
 # 🌸 Hii, I'm Ellie!
 
-I love cute girls and sometimes I code ♡
+I love cute girls and sometimes I code♡
+Willing to learn everything
 
 🌸 [Telegram](https://t.me/weikuu) · Discord: `weikuu`
 
